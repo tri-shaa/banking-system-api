@@ -14,6 +14,8 @@ public class BankAccount {
     private Long id;
 
     private String accountHolderName;
+    private String email;
+    private String password;
 
     private double balance;
 }
